@@ -1,12 +1,4 @@
 {
-  "Server": [
-    {
-          "Server"
-    }
-  ],
-  "Client": [
-    {
-      "Client"
-    }
-  ]
+  "Server": "Server",
+  "Client": "Client",
 }
