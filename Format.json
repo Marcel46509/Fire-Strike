@@ -1,6 +1,11 @@
 {
-"id": 1,
-"Server": "Server",
-"Client": "Client"
-}
+"id": 1
+},
 
+{
+  "Server": "Server"
+},
+
+{
+  "Client": "Client"
+}
