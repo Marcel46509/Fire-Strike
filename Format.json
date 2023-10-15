@@ -3,7 +3,8 @@
         {
             "Id": "1",
             "Server": "Server",
-            "Client": "Client"
+            "Client": "Client",
+            "GoodBadUgly": "Test"
         }
       ]
 }
