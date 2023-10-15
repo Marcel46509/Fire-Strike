@@ -1,0 +1,20 @@
+{
+      "Testing": [
+        {
+            "Id": "1",
+            "Server": "Server",
+            "Client": "Client",
+            "GoodBadUgly": "Test"
+        }
+      ],
+       "Players": [
+        {
+              "PermBanned": {
+                    "Test123", "ghjcik", "a511uli"
+              },
+              "IdPermBanned": {
+                    123, 43222, 939903
+              }
+        }
+      ]
+}
