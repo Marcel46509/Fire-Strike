@@ -1,5 +1,9 @@
 {
-  "Id": "1",
-  "Server": "Server",
-  "Client": "Client"
+      "Format-Main": [
+        {
+            "Id": "1",
+            "Server": "Server",
+            "Client": "Client"
+        }
+      ]
 }
