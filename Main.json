@@ -1,10 +1,6 @@
 {
        "Players": {
-              "PermBanned": {
-                    "Test123", "ghjcik", "a511uli"
-              },
-              "IdPermBanned": {
-                    123, 43222, 939903
-               }
-        }
+              "IdPermBanned": [123, 43222, 939903],
+              "PermBanned": ["Test123", "ghjcik", "a511uli"]
+       }
 }
