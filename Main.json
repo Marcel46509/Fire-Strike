@@ -6,5 +6,19 @@
                 "unicorn_homka", "Alesha245678", "Pupa_tokeden", "Xxdisplaymaster", "CBRO_PROPLAYER2017", "eciIqe", "haramcinapysk", "StasyanYkhtA", "haramcinapysk2", 
                 "kill4sportiv"],
               "MatchingBanned": ["kill4sportiv", "haramcinapysk", "2ze_X"]
+       },
+       
+       "Game": {
+              "Places": {
+                     "Casual": {
+                            "PlaceId": 14751950153,
+                            "GameMode": "Casual"},
+                     "Comp": {
+                            "PlaceId": 0,
+                            "GameMode": "Comp"},
+                     "Juggernaut": {
+                            "PlaceId": 0,
+                            "GameMode": "Juggernaut"}
+              }
        }
 }
