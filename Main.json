@@ -1,6 +1,10 @@
 {
        "Players": {
-              "IdPermBanned": [123, 43222, 939903],
-              "PermBanned": ["Test123", "ghjcik", "a511uli", "debil232"]
+              "IdPermBanned": [2342489093, 4913939489, 4150914812],
+              "PermBanned": ["Arthur_Felip", "ZERO_TWO2213", "Lazarew545", "Melihdiyebiri17depo", "LolYourBad557", "fgsgfsfddf", "XxJoako_AmikaLoVexD", "jenegnhdy", 
+                "KKLDSKLSLLFIKF39000", "TankRekt", "629ng", "9mmRUGERR", "2ze_X", "2ze_x2", "2ze_X3", "2ze_x3", "Kill4SP0RTIV", "Kill4Sportiv", "APTEM_JlOBE", "seth_akala", 
+                "unicorn_homka", "Alesha245678", "Pupa_tokeden", "Xxdisplaymaster", "CBRO_PROPLAYER2017", "eciIqe", "haramcinapysk", "StasyanYkhtA", "haramcinapysk2", 
+                "kill4sportiv"],
+              "MatchingBanned": ["kill4sportiv", "haramcinapysk", "2ze_X"]
        }
 }
