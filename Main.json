@@ -1,9 +1,9 @@
 {
-       "Players": {
-              "PermBanned": {
+       Players: {
+              PermBanned: {
                     "Test123", "ghjcik", "a511uli"
               },
-              "IdPermBanned": {
+              IdPermBanned: {
                     123, 43222, 939903
                }
         }
