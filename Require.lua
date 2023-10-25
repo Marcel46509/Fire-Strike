@@ -7,7 +7,5 @@ Module.__index = Module
 
 --//Scripts
 
-warn("hey im BADDDD!!")
-
 --//End
 return Module
